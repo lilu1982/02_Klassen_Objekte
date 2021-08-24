@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Cat",
+            "request": "launch",
+            "mainClass": "Cat",
+            "projectName": "02_Klassen_Objekte_52e8cc87"
+        },
+        {
+            "type": "java",
+            "name": "Launch It!",
+            "request": "launch",
+            "mainClass": "App",
+            "console": "internalConsole"
+        }
+    ]
+}
